@@ -1,0 +1,131 @@
+20:35:03.631 [main] INFO  testcases.Tc001AccountRegistration - launching the browser
+20:35:03.777 [main] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+20:35:03.867 [main] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+20:35:04.401 [main] INFO  testcases.Tc001AccountRegistration - clicked on register link
+20:35:04.409 [main] INFO  testcases.Tc001AccountRegistration - providing customer details
+20:35:07.523 [main] INFO  testcases.Tc001AccountRegistration - clicked on continue
+20:35:07.558 [main] INFO  testcases.Tc001AccountRegistration - test passed
+20:35:07.564 [main] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+20:35:07.571 [main] INFO  testcases.Tc001AccountRegistration - closing the app
+20:43:04.279 [main] INFO  testcases.Tc001AccountRegistration - launching the browser
+20:43:04.432 [main] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+20:43:04.520 [main] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+20:43:05.061 [main] INFO  testcases.Tc001AccountRegistration - clicked on register link
+20:43:05.064 [main] INFO  testcases.Tc001AccountRegistration - providing customer details
+20:43:08.123 [main] INFO  testcases.Tc001AccountRegistration - clicked on continue
+20:43:08.156 [main] INFO  testcases.Tc001AccountRegistration - test passed
+20:43:08.159 [main] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+20:43:08.168 [main] INFO  testcases.Tc001AccountRegistration - closing the app
+20:44:35.755 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+20:44:35.900 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+20:44:35.992 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+20:44:36.549 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+20:44:36.554 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+20:44:39.664 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+20:44:39.700 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+20:44:39.702 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+20:44:39.707 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+20:49:50.366 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+20:49:50.535 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+20:49:50.710 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+20:49:51.657 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+20:49:51.665 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+20:49:55.638 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+20:49:55.705 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+20:49:55.710 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+20:49:55.718 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+22:51:20.474 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+22:51:20.681 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+22:51:20.870 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+22:51:22.375 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+22:51:22.382 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+22:51:26.786 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+22:51:26.832 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+22:51:26.838 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+22:51:26.849 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+10:04:40.030 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+10:04:40.172 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+10:04:40.279 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+10:04:41.098 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+10:04:41.102 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+10:04:44.412 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+10:04:44.451 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+10:04:44.454 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+10:04:44.467 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+10:55:24.923 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+10:55:25.072 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+10:55:25.179 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+10:55:25.991 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+10:55:25.991 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+10:55:29.208 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+10:55:29.247 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+10:55:29.251 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+10:55:29.271 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+10:55:34.851 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - launching the browser
+10:55:34.986 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Starting Tc002LoginTest
+10:55:36.308 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Finished Tc002LoginTest
+10:55:36.310 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - closing the app
+12:12:48.912 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest - launching the browser
+12:12:50.229 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:12:52.350 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:12:52.374 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:13:03.373 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:13:03.384 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:13:14.392 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:13:14.401 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:13:25.352 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:13:25.352 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:13:36.549 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest - closing the app
+12:18:03.842 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest - launching the browser
+12:18:05.079 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:06.807 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:06.822 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:17.846 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:17.861 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:28.880 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:28.880 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:39.810 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:39.826 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+12:18:50.846 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+12:18:50.846 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest - closing the app
+12:40:35.806 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+12:40:35.951 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+12:40:36.065 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+12:40:36.711 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+12:40:36.714 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+12:40:39.836 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+12:40:39.869 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+12:40:39.871 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+12:40:39.886 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+12:40:45.225 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - launching the browser
+12:40:45.364 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Starting Tc002LoginTest
+12:40:46.548 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Finished Tc002LoginTest
+12:40:46.550 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - closing the app
+07:40:48.150 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest - launching the browser
+07:40:49.831 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:40:52.335 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:40:52.360 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:03.402 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:03.418 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:14.622 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:14.622 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:25.600 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:25.600 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:36.707 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:36.707 [TestNG-tests-1] INFO  testcases.Tc003LoginDataDrivenTest - closing the app
+07:42:55.568 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - launching the browser
+07:42:55.709 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Starting Tc002LoginTest
+07:43:07.172 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - closing the app
+07:57:19.733 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - launching the browser
+07:57:19.892 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***starting TC001AccountRegistration***
+07:57:20.049 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on my account link
+07:57:20.818 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on register link
+07:57:20.822 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - providing customer details
+07:57:24.203 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - clicked on continue
+07:57:24.245 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - test passed
+07:57:24.248 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - ***Finished TC001AccountRegistration***
+07:57:24.263 [TestNG-tests-1] INFO  testcases.Tc001AccountRegistration - closing the app
+07:57:29.821 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - launching the browser
+07:57:29.945 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Starting Tc002LoginTest
+07:57:31.192 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - Finished Tc002LoginTest
+07:57:31.194 [TestNG-tests-1] INFO  testcases.Tc002LoginTest - closing the app
